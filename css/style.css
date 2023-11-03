@@ -221,6 +221,8 @@ footer a:last-child:hover { text-decoration: underline; }
  #about p {display: none;} /* 추가 */
 }
 
+
+
  /* 
 white-space:nowrap; - 글씨의 줄바꿈 제어 (한줄로만표시)
 text-overflow:ellipsis; - 글씨가 길 경우 ... 으로 표시 
